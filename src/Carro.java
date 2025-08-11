@@ -19,15 +19,4 @@ public class Carro {
     }
 
 
-   /* static void obterDescricao(){ //método
-        Scanner scanner = new Scanner (System.in);
-        System.out.println("Digite a marca do seu carro: ");
-        String marca = scanner.nextLine();
-        System.out.println("Digite o modelo do seu carro: ");
-        String modelo = scanner.nextLine();
-        System.out.println("Por fim, digite seu ano de fabricação: ");
-        int anoFabricação = scanner.nextInt();
-        scanner.nextLine();
-
-    }*/
 }
